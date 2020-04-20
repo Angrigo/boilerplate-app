@@ -3,7 +3,7 @@ questo è un boilerplate da utilizzare per la creazione delle applicazioni iOS /
 è sviluppato utilizzando
  - react native https://reactnative.dev/docs/getting-started
  - react hooks https://reactjs.org/docs/hooks-overview.html
-
+ - react navigation https://reactnavigation.org/docs/getting-started
 ## installazione
  Android:
  Prerequisiti: https://reactnative.dev/docs/environment-setup (TAB "React Native CLI Quickstart", fino a "Creating a new application")
