@@ -9,7 +9,8 @@ questo è un boilerplate da utilizzare per la creazione delle applicazioni iOS /
  Prerequisiti: https://reactnative.dev/docs/environment-setup (TAB "React Native CLI Quickstart", fino a "Creating a new application")
  - connettere il telefono debug mode + adb
  - clonare questo repo `git clone https://github.com/Angrigo/boilerplate-app`
- - apri il terminale di vscode e lancia `npm run android`
+ - apri il terminale di vscode e lancia `npm install` per installare le dipendenze
+ - apri il terminale di vscode e lancia `npm run android` per installare l'app sul tuo dispositivo (`adb devices`)
  - si eseguirà nodejs con l'hotreloading sul tuo dispositivo 
  
 ### perfavore, se sviluppi componenti specifici per un progetto cerca di generalizzarli e inseriscili nel boilerplate
